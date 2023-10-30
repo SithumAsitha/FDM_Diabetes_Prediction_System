@@ -23,3 +23,4 @@ Futhermore, we acknowledge that the prevalence of diabetes can differ across gen
 populations. Our model offers a comprehensive and personalized approach to empower individuals 
 with valuable insights into their diabetes risk, fostering informed decisions and proactive steps 
 towards a healthier future.
+![image](https://github.com/SithumAsitha/FDM_Diabetes_Prediction_System/assets/123850774/211f42e5-feb2-43de-90d0-cf3df7e1c7e9)
