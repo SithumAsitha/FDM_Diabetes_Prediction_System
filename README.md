@@ -24,3 +24,9 @@ populations. Our model offers a comprehensive and personalized approach to empow
 with valuable insights into their diabetes risk, fostering informed decisions and proactive steps 
 towards a healthier future.
 ![image](https://github.com/SithumAsitha/FDM_Diabetes_Prediction_System/assets/123850774/211f42e5-feb2-43de-90d0-cf3df7e1c7e9)
+![image](https://github.com/SithumAsitha/FDM_Diabetes_Prediction_System/assets/123850774/5988238a-e90f-46d1-babb-71604988d7b4)
+![image](https://github.com/SithumAsitha/FDM_Diabetes_Prediction_System/assets/123850774/0e615dbd-03d9-47b2-9771-ec7c9b40296e)
+![image](https://github.com/SithumAsitha/FDM_Diabetes_Prediction_System/assets/123850774/56f92bcb-6e34-4e22-9188-8b002a79140b)
+![image](https://github.com/SithumAsitha/FDM_Diabetes_Prediction_System/assets/123850774/8984017f-d5e9-482f-bc24-b8481d48dc4f)
+
+
